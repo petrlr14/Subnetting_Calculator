@@ -2,12 +2,12 @@
     <string name="app_name">IP Calculator</string>
     <string name="ip_direction">IP Direction</string>
     <string name="Mask">Mask</string>
-    <string name="dot">.</string>
-    <string name="slash">/</string>
+    <string name="dot" translatable="false">.</string>
+    <string name="slash" translatable="false">/</string>
     <string name="net_id">Net ID: </string>
-    <string name="broadcast">Broadcast:</string>
-    <string name="parte_de_red">Red:</string>
-    <string name="parte_de_host">Host:</string>
+    <string name="broadcast" translatable="false">Broadcast:</string>
+    <string name="parte_de_red">Net:</string>
+    <string name="parte_de_host" translatable="false">Host:</string>
     <string name="direcciones_disponibles">IP\'s available:</string>
     <string name="bad_number_not_mask_toast">You most ingress number between 0 and 255</string>
     <string name="bad_number_mask_toast">You most ingress number between 0 and 32</string>
