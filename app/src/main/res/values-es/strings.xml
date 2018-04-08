@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ip_direction">Direccion IP</string>
+    <string name="app_name">Calculadora IP</string>
+    <string name="Mask">Mascara</string>
+    <string name="net_id">ID Red</string>
+    <string name="parte_de_red">Red</string>
+    <string name="direcciones_disponibles">IP\'s disponibles</string>
+    <string name="bad_number_not_mask_toast">Debe ingresar un numero entre 0 y 255</string>
+    <string name="bad_number_mask_toast">Debe ingresar un numero entre 0 y 32</string>
+</resources>
